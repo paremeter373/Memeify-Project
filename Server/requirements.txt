@@ -1,0 +1,7 @@
+assemblyai
+flask
+jsonify
+flask-CORS
+Flask-SQLAlchemy
+
+groq
